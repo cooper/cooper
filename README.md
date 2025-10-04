@@ -1,5 +1,5 @@
 ### Hi! I'm Mitchell.
-* I presently work at [ISE](https://ise.io), most notably on [Start VRM](https://startvrm.com), a third party risk management tool.
+* I presently work at [ISE](https://ise.io). Most notably on [Start VRM](https://startvrm.com), a third party risk management tool.
 * Full stack dev. I enjoy design and architecture. Web and mobile apps are where I shine.
 
 Please check out my projects. Some fun ones:
